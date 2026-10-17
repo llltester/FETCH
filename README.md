@@ -1,7 +1,6 @@
 # FETCH — Reproduction Guide
 
-End-to-end operations manual for reproducing the FETCH project. All paths in this
-repo are relative to **`FETCH_github_commit/`** unless noted otherwise.
+All paths in this repo are relative to **`FETCH/`** unless noted otherwise.
 
 ---
 
@@ -20,7 +19,7 @@ SATs_initial_scan_result/
 └── sonarqube/   <release>-result.csv
 ```
 
-## 2. Datasets under `datasets/`
+## 2. Datasets
 
 ```
 datasets/
