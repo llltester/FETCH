@@ -1,1 +1,0 @@
-example_events_bus	input.tf	/^resource "aws_cloudwatch_event_bus" "example_events_bus" {$/;"	r

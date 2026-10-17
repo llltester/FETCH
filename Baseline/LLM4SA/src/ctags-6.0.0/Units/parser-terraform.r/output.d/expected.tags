@@ -1,1 +1,0 @@
-password	input.tf	/^output "password" {$/;"	o
